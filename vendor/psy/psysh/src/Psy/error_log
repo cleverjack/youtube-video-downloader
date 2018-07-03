@@ -1,0 +1,2 @@
+[21-Sep-2017 06:05:12 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Application' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Shell.php on line 46
+[19-Nov-2017 10:02:42 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Application' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Shell.php on line 46

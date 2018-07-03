@@ -1,0 +1,2 @@
+[27-Sep-2017 21:29:02 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Util/StringUtilSpec.php on line 8
+[19-Nov-2017 09:00:34 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Util/StringUtilSpec.php on line 8

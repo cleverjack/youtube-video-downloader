@@ -1,0 +1,6 @@
+[08-Oct-2017 19:10:25 America/Denver] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/MimePartTest.php on line 4
+[08-Oct-2017 23:26:54 America/Denver] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AttachmentTest.php on line 4
+[09-Oct-2017 06:53:50 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderSetTest.php on line 4
+[23-Nov-2017 11:20:13 America/Denver] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/MimePartTest.php on line 4
+[23-Nov-2017 11:20:19 America/Denver] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AttachmentTest.php on line 4
+[23-Nov-2017 13:08:18 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderSetTest.php on line 4

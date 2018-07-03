@@ -1,0 +1,2 @@
+[24-Sep-2017 07:39:31 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/GitHub/2380/Issue2380Test.php on line 5
+[19-Nov-2017 04:28:25 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/GitHub/2380/Issue2380Test.php on line 5

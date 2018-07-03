@@ -1,0 +1,17 @@
+[26-Sep-2017 08:55:29 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/MinutesField.php on line 12
+[26-Sep-2017 13:34:40 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/MonthField.php on line 11
+[26-Sep-2017 13:50:29 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/HoursField.php on line 12
+[26-Sep-2017 14:25:44 America/Denver] PHP Fatal error:  Interface 'Cron\FieldInterface' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/AbstractField.php on line 9
+[27-Sep-2017 01:03:51 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/DayOfWeekField.php on line 23
+[27-Sep-2017 09:55:45 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/DayOfWeekField.php on line 23
+[28-Sep-2017 00:27:44 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/DayOfMonthField.php on line 26
+[28-Sep-2017 01:48:23 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/YearField.php on line 12
+[28-Sep-2017 18:49:39 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/MinutesField.php on line 12
+[29-Sep-2017 05:19:26 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/YearField.php on line 12
+[18-Nov-2017 23:05:39 America/Denver] PHP Fatal error:  Interface 'Cron\FieldInterface' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/AbstractField.php on line 9
+[18-Nov-2017 23:20:26 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/HoursField.php on line 12
+[18-Nov-2017 23:21:13 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/DayOfMonthField.php on line 26
+[19-Nov-2017 01:15:48 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/MinutesField.php on line 12
+[19-Nov-2017 07:39:41 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/DayOfWeekField.php on line 23
+[19-Nov-2017 09:14:13 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/MonthField.php on line 11
+[19-Nov-2017 09:27:14 America/Denver] PHP Fatal error:  Class 'Cron\AbstractField' not found in /home/promoletter/public_html/mywork/vendor/mtdowling/cron-expression/src/Cron/YearField.php on line 12

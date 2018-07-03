@@ -1,0 +1,7 @@
+[23-Sep-2017 02:59:29 America/Denver] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VersionUpdater/NoopChecker.php on line 20
+[23-Sep-2017 10:42:23 America/Denver] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VersionUpdater/GitHubChecker.php on line 17
+[23-Sep-2017 11:54:17 America/Denver] PHP Fatal error:  Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VersionUpdater/IntervalChecker.php on line 17
+[11-Nov-2017 20:36:00 America/Denver] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VersionUpdater/NoopChecker.php on line 20
+[18-Nov-2017 18:31:50 America/Denver] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VersionUpdater/GitHubChecker.php on line 17
+[18-Nov-2017 20:20:26 America/Denver] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VersionUpdater/NoopChecker.php on line 20
+[19-Nov-2017 06:04:56 America/Denver] PHP Fatal error:  Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VersionUpdater/IntervalChecker.php on line 17

@@ -1,0 +1,6 @@
+[23-Sep-2017 00:58:37 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Formatter/DocblockFormatterTest.php on line 17
+[23-Sep-2017 04:42:12 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Formatter/SignatureFormatterTest.php on line 18
+[23-Sep-2017 15:02:09 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Formatter/CodeFormatterTest.php on line 17
+[09-Nov-2017 23:16:34 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Formatter/SignatureFormatterTest.php on line 18
+[18-Nov-2017 16:58:56 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Formatter/CodeFormatterTest.php on line 17
+[19-Nov-2017 04:05:21 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Formatter/DocblockFormatterTest.php on line 17

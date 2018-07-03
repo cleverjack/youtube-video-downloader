@@ -1,0 +1,7 @@
+[27-Sep-2017 03:31:19 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Doubler/LazyDoubleSpec.php on line 10
+[27-Sep-2017 05:36:16 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Doubler/DoublerSpec.php on line 13
+[27-Sep-2017 11:31:02 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Doubler/NameGeneratorSpec.php on line 8
+[27-Sep-2017 20:43:13 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Doubler/NameGeneratorSpec.php on line 8
+[19-Nov-2017 02:24:07 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Doubler/DoublerSpec.php on line 13
+[19-Nov-2017 09:37:47 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Doubler/LazyDoubleSpec.php on line 10
+[19-Nov-2017 20:46:24 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Doubler/NameGeneratorSpec.php on line 8

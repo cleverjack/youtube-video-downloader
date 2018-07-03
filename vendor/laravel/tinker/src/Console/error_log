@@ -1,0 +1,2 @@
+[22-Sep-2017 17:42:42 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 12
+[18-Nov-2017 23:30:02 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 12

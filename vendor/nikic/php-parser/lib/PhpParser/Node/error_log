@@ -1,0 +1,8 @@
+[26-Sep-2017 14:29:15 America/Denver] PHP Fatal error:  Interface 'PhpParser\Node' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 8
+[26-Sep-2017 14:29:36 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 6
+[26-Sep-2017 14:47:46 America/Denver] PHP Fatal error:  Class 'PhpParser\NodeAbstract' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[26-Sep-2017 15:20:32 America/Denver] PHP Fatal error:  Class 'PhpParser\NodeAbstract' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 8
+[19-Nov-2017 00:46:49 America/Denver] PHP Fatal error:  Interface 'PhpParser\Node' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 8
+[19-Nov-2017 03:02:29 America/Denver] PHP Fatal error:  Class 'PhpParser\NodeAbstract' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 8
+[19-Nov-2017 08:57:02 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 6
+[20-Nov-2017 05:04:45 America/Denver] PHP Fatal error:  Class 'PhpParser\NodeAbstract' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8

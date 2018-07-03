@@ -1,0 +1,2 @@
+[26-Sep-2017 16:24:19 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Facades/Image.php on line 8
+[19-Nov-2017 01:18:48 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Facades/Image.php on line 8

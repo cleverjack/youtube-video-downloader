@@ -1,0 +1,8 @@
+[22-Sep-2017 05:20:25 America/Denver] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/RegisterController.php on line 11
+[22-Sep-2017 14:18:01 America/Denver] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[22-Sep-2017 17:03:16 America/Denver] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/ResetPasswordController.php on line 14
+[22-Sep-2017 18:19:28 America/Denver] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/LoginController.php on line 9
+[18-Nov-2017 17:50:15 America/Denver] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[19-Nov-2017 05:39:44 America/Denver] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/RegisterController.php on line 11
+[19-Nov-2017 22:38:22 America/Denver] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/ResetPasswordController.php on line 14
+[20-Nov-2017 01:51:53 America/Denver] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/LoginController.php on line 9

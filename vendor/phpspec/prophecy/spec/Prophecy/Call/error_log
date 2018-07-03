@@ -1,0 +1,4 @@
+[27-Sep-2017 09:56:40 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Call/CallSpec.php on line 8
+[27-Sep-2017 13:24:00 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Call/CallCenterSpec.php on line 12
+[19-Nov-2017 00:04:52 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Call/CallSpec.php on line 8
+[19-Nov-2017 06:23:19 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Call/CallCenterSpec.php on line 12

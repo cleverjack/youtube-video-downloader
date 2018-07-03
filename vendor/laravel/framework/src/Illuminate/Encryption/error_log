@@ -1,0 +1,4 @@
+[27-Sep-2017 06:26:29 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Encryption\Encrypter' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[27-Sep-2017 10:47:31 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[19-Nov-2017 03:47:32 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Encryption\Encrypter' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[19-Nov-2017 15:20:21 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9

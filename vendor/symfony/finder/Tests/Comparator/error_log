@@ -1,0 +1,6 @@
+[23-Sep-2017 06:45:05 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/Comparator/DateComparatorTest.php on line 18
+[23-Sep-2017 07:43:33 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/Comparator/NumberComparatorTest.php on line 18
+[23-Sep-2017 12:02:52 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/Comparator/ComparatorTest.php on line 18
+[12-Nov-2017 00:32:55 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/Comparator/DateComparatorTest.php on line 18
+[18-Nov-2017 15:55:46 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/Comparator/ComparatorTest.php on line 18
+[19-Nov-2017 01:31:16 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/Comparator/NumberComparatorTest.php on line 18

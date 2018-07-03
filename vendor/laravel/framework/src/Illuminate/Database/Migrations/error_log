@@ -1,0 +1,2 @@
+[27-Sep-2017 11:36:15 America/Denver] PHP Fatal error:  Interface 'Illuminate\Database\Migrations\MigrationRepositoryInterface' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php on line 8
+[19-Nov-2017 07:43:12 America/Denver] PHP Fatal error:  Interface 'Illuminate\Database\Migrations\MigrationRepositoryInterface' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php on line 8

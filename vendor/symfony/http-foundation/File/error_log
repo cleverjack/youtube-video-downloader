@@ -1,0 +1,4 @@
+[21-Sep-2017 19:21:17 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-foundation/File/UploadedFile.php on line 26
+[21-Sep-2017 21:51:53 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-foundation/File/Stream.php on line 20
+[19-Nov-2017 00:35:14 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-foundation/File/UploadedFile.php on line 26
+[19-Nov-2017 15:44:57 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-foundation/File/Stream.php on line 20

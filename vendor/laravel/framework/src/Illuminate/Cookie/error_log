@@ -1,0 +1,4 @@
+[24-Sep-2017 03:34:38 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php on line 8
+[24-Sep-2017 15:20:33 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Cookie\QueueingFactory' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cookie/CookieJar.php on line 11
+[12-Nov-2017 03:08:31 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php on line 8
+[20-Nov-2017 02:45:20 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Cookie\QueueingFactory' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cookie/CookieJar.php on line 11

@@ -1,0 +1,4 @@
+[25-Sep-2017 19:11:52 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Matcher\Matcher' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/PropertyNameMatcher.php on line 9
+[25-Sep-2017 21:28:38 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Matcher\Matcher' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/PropertyTypeMatcher.php on line 14
+[19-Nov-2017 01:38:11 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Matcher\Matcher' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/PropertyTypeMatcher.php on line 14
+[19-Nov-2017 07:06:10 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Matcher\Matcher' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/PropertyNameMatcher.php on line 9

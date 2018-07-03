@@ -1,0 +1,2 @@
+[21-Sep-2017 19:23:18 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\ControllerMetadata\ArgumentMetadataFactoryInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/ControllerMetadata/ArgumentMetadataFactory.php on line 20
+[19-Nov-2017 04:02:37 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\ControllerMetadata\ArgumentMetadataFactoryInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/ControllerMetadata/ArgumentMetadataFactory.php on line 20

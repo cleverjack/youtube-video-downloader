@@ -1,0 +1,2 @@
+[28-Sep-2017 08:33:56 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 6
+[20-Nov-2017 03:08:43 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 6

@@ -1,0 +1,14 @@
+[20-Sep-2017 02:04:22 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/_files/CoverageNamespacedFunctionTest.php on line 3
+[20-Sep-2017 02:59:25 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/PHPTest.php on line 19
+[20-Sep-2017 09:06:38 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/ConfigurationTest.php on line 12
+[20-Sep-2017 14:11:14 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/GlobalStateTest.php on line 12
+[20-Sep-2017 14:46:42 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/GetoptTest.php on line 12
+[20-Sep-2017 18:47:28 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/XMLTest.php on line 12
+[21-Sep-2017 22:34:42 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/RegexTest.php on line 12
+[23-Oct-2017 22:00:24 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/GlobalStateTest.php on line 12
+[08-Nov-2017 22:20:39 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/GetoptTest.php on line 12
+[09-Nov-2017 02:02:14 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/_files/CoverageNamespacedFunctionTest.php on line 3
+[09-Nov-2017 22:45:03 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/PHPTest.php on line 19
+[16-Nov-2017 14:10:56 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/RegexTest.php on line 12
+[18-Nov-2017 19:44:49 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/XMLTest.php on line 12
+[19-Nov-2017 06:09:43 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Util/ConfigurationTest.php on line 12

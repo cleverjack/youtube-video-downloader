@@ -1,0 +1,2 @@
+[20-Sep-2017 06:43:41 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/tinker/src/TinkerServiceProvider.php on line 9
+[19-Nov-2017 11:49:24 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/tinker/src/TinkerServiceProvider.php on line 9

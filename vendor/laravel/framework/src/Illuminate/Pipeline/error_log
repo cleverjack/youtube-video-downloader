@@ -1,0 +1,6 @@
+[25-Sep-2017 12:19:02 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[25-Sep-2017 23:45:10 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 11
+[26-Sep-2017 05:51:45 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Hub' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 10
+[19-Nov-2017 01:17:33 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 11
+[19-Nov-2017 05:41:41 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[20-Nov-2017 03:37:50 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Hub' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 10

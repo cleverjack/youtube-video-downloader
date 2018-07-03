@@ -1,0 +1,2 @@
+[28-Sep-2017 01:07:39 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/test/Faker/Provider/ar_SA/InternetTest.php on line 11
+[19-Nov-2017 14:48:05 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/test/Faker/Provider/ar_SA/InternetTest.php on line 11

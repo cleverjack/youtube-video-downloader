@@ -1,0 +1,8 @@
+[23-Sep-2017 01:21:14 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Framework/Constraint/ExceptionMessageRegExpTest.php on line 12
+[23-Sep-2017 03:42:42 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Framework/Constraint/IsJsonTest.php on line 12
+[23-Sep-2017 07:41:30 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Framework/Constraint/ArraySubsetTest.php on line 12
+[23-Sep-2017 09:44:24 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Framework/Constraint/CountTest.php on line 12
+[09-Nov-2017 23:11:37 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Framework/Constraint/ArraySubsetTest.php on line 12
+[10-Nov-2017 02:53:46 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Framework/Constraint/ExceptionMessageRegExpTest.php on line 12
+[18-Nov-2017 19:45:46 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Framework/Constraint/IsJsonTest.php on line 12
+[20-Nov-2017 03:20:57 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Framework/Constraint/CountTest.php on line 12

@@ -1,0 +1,9 @@
+[24-Sep-2017 17:23:28 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php on line 5
+[24-Sep-2017 18:21:45 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php on line 3
+[24-Sep-2017 23:03:46 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php on line 3
+[25-Sep-2017 23:44:46 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php on line 3
+[26-Sep-2017 09:45:51 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php on line 3
+[19-Nov-2017 02:58:57 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php on line 3
+[19-Nov-2017 06:06:19 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php on line 5
+[19-Nov-2017 09:11:13 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php on line 3
+[19-Nov-2017 12:20:56 America/Denver] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php on line 3

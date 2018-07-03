@@ -1,0 +1,5 @@
+[23-Sep-2017 15:28:33 America/Denver] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Number/OrderingComparison.php on line 12
+[24-Sep-2017 08:27:43 America/Denver] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Number/IsCloseTo.php on line 15
+[27-Sep-2017 17:03:14 America/Denver] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Number/IsCloseTo.php on line 15
+[19-Nov-2017 04:00:51 America/Denver] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Number/OrderingComparison.php on line 12
+[19-Nov-2017 04:03:51 America/Denver] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Number/IsCloseTo.php on line 15

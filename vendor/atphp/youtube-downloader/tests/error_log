@@ -1,0 +1,2 @@
+[19-Sep-2017 08:08:03 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_Testcase' not found in /home/promoletter/public_html/mywork/vendor/atphp/youtube-downloader/tests/YoutubeDownloaderTest.php on line 6
+[19-Nov-2017 15:49:46 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_Testcase' not found in /home/promoletter/public_html/mywork/vendor/atphp/youtube-downloader/tests/YoutubeDownloaderTest.php on line 6

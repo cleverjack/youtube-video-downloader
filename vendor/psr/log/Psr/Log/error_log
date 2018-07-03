@@ -1,0 +1,4 @@
+[20-Sep-2017 03:14:47 America/Denver] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/promoletter/public_html/mywork/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[20-Sep-2017 14:46:44 America/Denver] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[18-Nov-2017 19:08:11 America/Denver] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[18-Nov-2017 23:04:27 America/Denver] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/promoletter/public_html/mywork/vendor/psr/log/Psr/Log/NullLogger.php on line 14

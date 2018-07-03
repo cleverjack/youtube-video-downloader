@@ -1,0 +1,8 @@
+[28-Sep-2017 18:24:39 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'PHPUnit suppresses exceptions thrown outside of test case function' in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7
+[19-Nov-2017 17:19:07 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'PHPUnit suppresses exceptions thrown outside of test case function' in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7

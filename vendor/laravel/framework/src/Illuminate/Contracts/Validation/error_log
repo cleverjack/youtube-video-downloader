@@ -1,0 +1,2 @@
+[30-Sep-2017 15:48:03 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\MessageProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 8
+[19-Nov-2017 00:48:40 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\MessageProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 8

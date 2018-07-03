@@ -1,0 +1,7 @@
+[21-Sep-2017 06:34:27 America/Denver] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/http-message/src/ResponseInterface.php on line 21
+[21-Sep-2017 06:41:29 America/Denver] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/http-message/src/RequestInterface.php on line 25
+[21-Sep-2017 23:24:36 America/Denver] PHP Fatal error:  Interface 'Psr\Http\Message\RequestInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/http-message/src/ServerRequestInterface.php on line 44
+[24-Sep-2017 11:07:30 America/Denver] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/http-message/src/RequestInterface.php on line 25
+[16-Nov-2017 07:04:23 America/Denver] PHP Fatal error:  Interface 'Psr\Http\Message\RequestInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/http-message/src/ServerRequestInterface.php on line 44
+[16-Nov-2017 14:39:36 America/Denver] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/http-message/src/ResponseInterface.php on line 21
+[19-Nov-2017 05:16:24 America/Denver] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/promoletter/public_html/mywork/vendor/psr/http-message/src/RequestInterface.php on line 25

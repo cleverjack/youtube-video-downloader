@@ -1,0 +1,2 @@
+[20-Sep-2017 17:45:41 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/DependencyInjection/AddConsoleCommandPass.php on line 25
+[18-Nov-2017 22:37:29 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/DependencyInjection/AddConsoleCommandPass.php on line 25

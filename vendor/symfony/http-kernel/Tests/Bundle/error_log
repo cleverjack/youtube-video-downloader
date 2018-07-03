@@ -1,0 +1,2 @@
+[24-Sep-2017 20:12:02 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Bundle/BundleTest.php on line 23
+[19-Nov-2017 03:58:48 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Bundle/BundleTest.php on line 23

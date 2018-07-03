@@ -1,0 +1,4 @@
+[24-Sep-2017 03:40:34 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Config/EnvParametersResource.php on line 21
+[24-Sep-2017 20:09:42 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Config\FileLocator' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Config/FileLocator.php on line 23
+[09-Nov-2017 20:39:55 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Config/EnvParametersResource.php on line 21
+[18-Nov-2017 21:08:35 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Config\FileLocator' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Config/FileLocator.php on line 23

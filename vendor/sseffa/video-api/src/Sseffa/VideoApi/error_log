@@ -1,0 +1,2 @@
+[20-Sep-2017 12:02:56 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/sseffa/video-api/src/Sseffa/VideoApi/VideoApiServiceProvider.php on line 11
+[16-Nov-2017 08:27:14 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/sseffa/video-api/src/Sseffa/VideoApi/VideoApiServiceProvider.php on line 11

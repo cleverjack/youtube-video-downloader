@@ -1,0 +1,2 @@
+[27-Sep-2017 13:45:46 America/Denver] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 21
+[19-Nov-2017 05:38:16 America/Denver] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 21

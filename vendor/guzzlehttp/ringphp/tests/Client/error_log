@@ -1,0 +1,8 @@
+[28-Sep-2017 18:17:17 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/ringphp/tests/Client/CurlMultiHandlerTest.php on line 7
+[28-Sep-2017 18:17:20 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/ringphp/tests/Client/StreamHandlerTest.php on line 9
+[28-Sep-2017 19:45:53 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/ringphp/tests/Client/CurlHandlerTest.php on line 7
+[28-Sep-2017 22:03:01 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/ringphp/tests/Client/CurlFactoryTest.php on line 25
+[19-Nov-2017 05:38:19 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/ringphp/tests/Client/CurlMultiHandlerTest.php on line 7
+[19-Nov-2017 06:40:37 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/ringphp/tests/Client/StreamHandlerTest.php on line 9
+[19-Nov-2017 07:41:36 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/ringphp/tests/Client/CurlFactoryTest.php on line 25
+[19-Nov-2017 16:51:04 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/ringphp/tests/Client/CurlHandlerTest.php on line 7

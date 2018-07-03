@@ -1,0 +1,2 @@
+[22-Sep-2017 17:34:03 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/translation/Tests/DataCollector/TranslationDataCollectorTest.php on line 19
+[10-Nov-2017 01:45:16 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/translation/Tests/DataCollector/TranslationDataCollectorTest.php on line 19

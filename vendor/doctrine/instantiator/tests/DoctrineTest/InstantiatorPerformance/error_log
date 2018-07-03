@@ -1,0 +1,2 @@
+[21-Sep-2017 21:19:02 America/Denver] PHP Fatal error:  Class 'Athletic\AthleticEvent' not found in /home/promoletter/public_html/mywork/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorPerformance/InstantiatorPerformanceEvent.php on line 31
+[18-Nov-2017 14:47:43 America/Denver] PHP Fatal error:  Class 'Athletic\AthleticEvent' not found in /home/promoletter/public_html/mywork/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorPerformance/InstantiatorPerformanceEvent.php on line 31

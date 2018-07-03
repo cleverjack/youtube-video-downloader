@@ -1,0 +1,2 @@
+[27-Sep-2017 21:20:26 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Argument/ArgumentsWildcardSpec.php on line 9
+[19-Nov-2017 00:35:12 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Argument/ArgumentsWildcardSpec.php on line 9

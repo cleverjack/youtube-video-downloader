@@ -1,0 +1,8 @@
+[27-Sep-2017 06:26:06 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Promise/ThrowPromiseSpec.php on line 11
+[27-Sep-2017 14:29:30 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnPromiseSpec.php on line 10
+[27-Sep-2017 21:54:55 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnArgumentPromiseSpec.php on line 10
+[28-Sep-2017 02:37:41 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Promise/CallbackPromiseSpec.php on line 10
+[19-Nov-2017 05:38:14 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Promise/ThrowPromiseSpec.php on line 11
+[19-Nov-2017 06:50:43 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnPromiseSpec.php on line 10
+[19-Nov-2017 07:07:31 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Promise/CallbackPromiseSpec.php on line 10
+[19-Nov-2017 21:33:08 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnArgumentPromiseSpec.php on line 10

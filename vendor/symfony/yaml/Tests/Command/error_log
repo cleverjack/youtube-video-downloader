@@ -1,0 +1,2 @@
+[21-Sep-2017 18:05:07 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/yaml/Tests/Command/LintCommandTest.php on line 26
+[18-Nov-2017 19:20:51 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/yaml/Tests/Command/LintCommandTest.php on line 26

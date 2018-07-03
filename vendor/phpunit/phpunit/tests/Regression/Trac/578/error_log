@@ -1,0 +1,2 @@
+[23-Sep-2017 18:09:54 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/578/Issue578Test.php on line 3
+[20-Nov-2017 02:44:29 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/578/Issue578Test.php on line 3

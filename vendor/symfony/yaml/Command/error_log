@@ -1,0 +1,2 @@
+[21-Sep-2017 05:39:22 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/promoletter/public_html/mywork/vendor/symfony/yaml/Command/LintCommand.php on line 30
+[16-Nov-2017 08:31:01 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/promoletter/public_html/mywork/vendor/symfony/yaml/Command/LintCommand.php on line 30

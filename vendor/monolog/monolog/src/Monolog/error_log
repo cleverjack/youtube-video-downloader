@@ -1,0 +1,2 @@
+[20-Sep-2017 23:05:20 America/Denver] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/src/Monolog/Logger.php on line 28
+[20-Nov-2017 04:28:23 America/Denver] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/src/Monolog/Logger.php on line 28

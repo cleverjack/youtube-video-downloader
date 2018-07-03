@@ -1,0 +1,2 @@
+[25-Sep-2017 20:54:41 America/Denver] PHP Fatal error:  Class 'Illuminate\Http\UploadedFile' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 8
+[19-Nov-2017 23:03:46 America/Denver] PHP Fatal error:  Class 'Illuminate\Http\UploadedFile' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 8

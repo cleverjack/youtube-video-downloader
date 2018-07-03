@@ -1,0 +1,2 @@
+[27-Sep-2017 14:46:08 America/Denver] PHP Fatal error:  Class 'Illuminate\View\Compilers\Compiler' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 8
+[19-Nov-2017 14:44:11 America/Denver] PHP Fatal error:  Class 'Illuminate\View\Compilers\Compiler' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 8

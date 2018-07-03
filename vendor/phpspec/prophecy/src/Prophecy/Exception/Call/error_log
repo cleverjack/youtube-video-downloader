@@ -1,0 +1,2 @@
+[29-Sep-2017 12:02:49 America/Denver] PHP Fatal error:  Class 'Prophecy\Exception\Prophecy\ObjectProphecyException' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/src/Prophecy/Exception/Call/UnexpectedCallException.php on line 18
+[20-Nov-2017 00:44:02 America/Denver] PHP Fatal error:  Class 'Prophecy\Exception\Prophecy\ObjectProphecyException' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/src/Prophecy/Exception/Call/UnexpectedCallException.php on line 18

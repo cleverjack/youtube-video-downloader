@@ -1,0 +1,4 @@
+[23-Sep-2017 15:30:32 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8
+[23-Sep-2017 22:57:47 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Hashing\Hasher' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 9
+[11-Nov-2017 22:54:34 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Hashing\Hasher' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 9
+[18-Nov-2017 14:49:42 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8

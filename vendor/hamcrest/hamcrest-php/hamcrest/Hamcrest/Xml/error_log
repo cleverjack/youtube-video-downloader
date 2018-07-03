@@ -1,0 +1,2 @@
+[24-Sep-2017 07:05:39 America/Denver] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 18
+[10-Nov-2017 04:25:04 America/Denver] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 18

@@ -1,0 +1,2 @@
+[25-Sep-2017 13:20:40 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Access\Gate' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 11
+[19-Nov-2017 00:49:38 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Access\Gate' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 11

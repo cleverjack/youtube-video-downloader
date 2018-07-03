@@ -1,0 +1,2 @@
+[25-Sep-2017 04:08:40 America/Denver] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[19-Nov-2017 09:58:38 America/Denver] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9

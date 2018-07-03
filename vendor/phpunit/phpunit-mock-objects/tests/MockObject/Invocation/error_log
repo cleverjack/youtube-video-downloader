@@ -1,0 +1,4 @@
+[22-Sep-2017 09:23:53 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/StaticTest.php on line 3
+[22-Sep-2017 11:14:31 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/ObjectTest.php on line 3
+[16-Nov-2017 14:11:18 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/StaticTest.php on line 3
+[19-Nov-2017 05:41:36 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/ObjectTest.php on line 3

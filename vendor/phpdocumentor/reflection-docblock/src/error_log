@@ -1,0 +1,2 @@
+[20-Sep-2017 18:47:24 America/Denver] PHP Fatal error:  Interface 'phpDocumentor\Reflection\DocBlockFactoryInterface' not found in /home/promoletter/public_html/mywork/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 22
+[12-Nov-2017 08:12:49 America/Denver] PHP Fatal error:  Interface 'phpDocumentor\Reflection\DocBlockFactoryInterface' not found in /home/promoletter/public_html/mywork/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 22

@@ -1,0 +1,4 @@
+[23-Sep-2017 04:30:02 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Input\InputArgument' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Input/CodeArgument.php on line 31
+[23-Sep-2017 06:48:00 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Input\StringInput' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Input/ShellInput.php on line 21
+[11-Nov-2017 20:32:04 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Input\InputArgument' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Input/CodeArgument.php on line 31
+[18-Nov-2017 14:49:18 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Input\StringInput' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Input/ShellInput.php on line 21

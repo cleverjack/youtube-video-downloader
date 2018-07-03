@@ -1,0 +1,2 @@
+[27-Sep-2017 15:08:25 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 8
+[19-Nov-2017 05:20:18 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 8

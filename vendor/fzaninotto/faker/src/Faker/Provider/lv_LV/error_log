@@ -1,0 +1,14 @@
+[26-Sep-2017 13:33:34 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Internet' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Internet.php on line 6
+[26-Sep-2017 15:41:08 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Payment.php on line 6
+[26-Sep-2017 21:37:46 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/PhoneNumber.php on line 6
+[27-Sep-2017 01:00:52 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Color' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Color.php on line 6
+[27-Sep-2017 18:37:08 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Person.php on line 9
+[28-Sep-2017 03:00:41 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Address.php on line 6
+[19-Nov-2017 01:50:39 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Payment.php on line 6
+[19-Nov-2017 01:50:43 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Color' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Color.php on line 6
+[19-Nov-2017 02:23:41 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Internet' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Internet.php on line 6
+[19-Nov-2017 03:59:39 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Address.php on line 6
+[19-Nov-2017 04:37:42 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/PhoneNumber.php on line 6
+[20-Nov-2017 03:11:10 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Person.php on line 9
+[20-Nov-2017 14:50:37 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Color' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Color.php on line 6
+[20-Nov-2017 16:59:24 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/lv_LV/Address.php on line 6

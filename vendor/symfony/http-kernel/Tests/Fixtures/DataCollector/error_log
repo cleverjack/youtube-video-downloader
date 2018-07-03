@@ -1,0 +1,2 @@
+[27-Sep-2017 15:34:15 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\DataCollector\DataCollector' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Fixtures/DataCollector/CloneVarDataCollector.php on line 19
+[19-Nov-2017 09:15:11 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\DataCollector\DataCollector' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Fixtures/DataCollector/CloneVarDataCollector.php on line 19

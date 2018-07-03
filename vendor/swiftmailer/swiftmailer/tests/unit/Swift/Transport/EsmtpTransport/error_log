@@ -1,0 +1,2 @@
+[13-Oct-2017 02:38:59 America/Denver] PHP Fatal error:  Class 'Swift_Transport_AbstractSmtpEventSupportTest' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/EsmtpTransportTest.php on line 4
+[29-Nov-2017 04:55:00 America/Denver] PHP Fatal error:  Class 'Swift_Transport_AbstractSmtpEventSupportTest' not found in /home/promoletter/public_html/mywork/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/EsmtpTransportTest.php on line 4

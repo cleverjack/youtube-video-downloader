@@ -1,0 +1,2 @@
+[23-Sep-2017 23:06:36 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\Parser\ParserInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/css-selector/Parser/Parser.php on line 29
+[19-Nov-2017 12:48:11 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\Parser\ParserInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/css-selector/Parser/Parser.php on line 29

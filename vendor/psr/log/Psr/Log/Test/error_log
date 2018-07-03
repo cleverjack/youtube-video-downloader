@@ -1,0 +1,2 @@
+[22-Sep-2017 01:12:54 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 15
+[19-Nov-2017 18:19:38 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 15

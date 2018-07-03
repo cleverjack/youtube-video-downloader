@@ -1,0 +1,2 @@
+[18-Sep-2017 13:10:29 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/EventListener/ErrorListener.php on line 26
+[14-Nov-2017 21:40:18 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/EventListener/ErrorListener.php on line 26

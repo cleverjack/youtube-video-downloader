@@ -1,0 +1,4 @@
+[18-Sep-2017 00:35:31 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Question\Question' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/Question/ChoiceQuestion.php on line 22
+[18-Sep-2017 02:14:35 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Question\Question' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/Question/ConfirmationQuestion.php on line 20
+[09-Nov-2017 05:45:02 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Question\Question' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/Question/ConfirmationQuestion.php on line 20
+[12-Nov-2017 01:51:31 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Question\Question' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/Question/ChoiceQuestion.php on line 22

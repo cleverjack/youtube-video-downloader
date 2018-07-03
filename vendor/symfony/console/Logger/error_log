@@ -1,0 +1,2 @@
+[20-Sep-2017 13:38:02 America/Denver] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/Logger/ConsoleLogger.php on line 28
+[16-Nov-2017 14:40:11 America/Denver] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/promoletter/public_html/mywork/vendor/symfony/console/Logger/ConsoleLogger.php on line 28

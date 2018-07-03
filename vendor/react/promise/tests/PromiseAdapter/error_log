@@ -1,0 +1,2 @@
+[26-Sep-2017 17:26:36 America/Denver] PHP Fatal error:  Interface 'React\Promise\PromiseAdapter\PromiseAdapterInterface' not found in /home/promoletter/public_html/mywork/vendor/react/promise/tests/PromiseAdapter/CallbackPromiseAdapter.php on line 8
+[19-Nov-2017 15:19:48 America/Denver] PHP Fatal error:  Interface 'React\Promise\PromiseAdapter\PromiseAdapterInterface' not found in /home/promoletter/public_html/mywork/vendor/react/promise/tests/PromiseAdapter/CallbackPromiseAdapter.php on line 8

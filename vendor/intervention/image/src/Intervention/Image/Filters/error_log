@@ -1,0 +1,2 @@
+[26-Sep-2017 13:30:25 America/Denver] PHP Fatal error:  Interface 'Intervention\Image\Filters\FilterInterface' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Filters/DemoFilter.php on line 6
+[19-Nov-2017 00:20:35 America/Denver] PHP Fatal error:  Interface 'Intervention\Image\Filters\FilterInterface' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Filters/DemoFilter.php on line 6

@@ -1,0 +1,9 @@
+[21-Sep-2017 17:17:02 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/ShellTest.php on line 22
+[21-Sep-2017 17:18:16 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/AutoloaderTest.php on line 17
+[21-Sep-2017 21:53:34 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/CodeCleanerTest.php on line 17
+[21-Sep-2017 22:01:39 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/ConsoleColorFactoryTest.php on line 18
+[22-Sep-2017 00:44:14 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/ConfigurationTest.php on line 22
+[09-Nov-2017 05:16:37 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/AutoloaderTest.php on line 17
+[19-Nov-2017 01:31:29 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/ConsoleColorFactoryTest.php on line 18
+[19-Nov-2017 08:45:13 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/ConfigurationTest.php on line 22
+[19-Nov-2017 13:16:54 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/ShellTest.php on line 22

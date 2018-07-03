@@ -1,0 +1,2 @@
+[22-Sep-2017 17:31:43 America/Denver] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\Exception' not found in /home/promoletter/public_html/mywork/vendor/sebastian/global-state/src/RuntimeException.php on line 16
+[19-Nov-2017 01:16:50 America/Denver] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\Exception' not found in /home/promoletter/public_html/mywork/vendor/sebastian/global-state/src/RuntimeException.php on line 16

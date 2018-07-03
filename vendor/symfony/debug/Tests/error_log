@@ -1,0 +1,11 @@
+[18-Sep-2017 13:59:39 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/DebugClassLoaderTest.php on line 19
+[18-Sep-2017 17:29:05 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/ErrorHandlerTest.php on line 27
+[21-Sep-2017 08:20:57 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/ErrorHandlerTest.php on line 27
+[21-Sep-2017 11:07:18 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/DebugClassLoaderTest.php on line 19
+[21-Sep-2017 21:52:09 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/ExceptionHandlerTest.php on line 23
+[22-Sep-2017 02:50:21 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Debug\ExceptionHandler' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/MockExceptionHandler.php on line 17
+[25-Sep-2017 21:02:10 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/DebugClassLoaderTest.php on line 19
+[05-Nov-2017 10:07:42 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/ErrorHandlerTest.php on line 27
+[16-Nov-2017 06:55:15 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/ExceptionHandlerTest.php on line 23
+[19-Nov-2017 10:08:58 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/DebugClassLoaderTest.php on line 19
+[19-Nov-2017 13:46:26 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Debug\ExceptionHandler' not found in /home/promoletter/public_html/mywork/vendor/symfony/debug/Tests/MockExceptionHandler.php on line 17

@@ -1,0 +1,2 @@
+[27-Sep-2017 00:34:32 America/Denver] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 24
+[19-Nov-2017 07:40:06 America/Denver] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 24

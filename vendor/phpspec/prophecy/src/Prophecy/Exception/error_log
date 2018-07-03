@@ -1,0 +1,4 @@
+[27-Sep-2017 10:29:37 America/Denver] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 15
+[28-Sep-2017 23:47:20 America/Denver] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 15
+[29-Sep-2017 16:48:28 America/Denver] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 15
+[19-Nov-2017 13:18:18 America/Denver] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 15

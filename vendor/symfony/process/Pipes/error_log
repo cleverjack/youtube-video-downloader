@@ -1,0 +1,8 @@
+[18-Sep-2017 03:50:46 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/promoletter/public_html/mywork/vendor/symfony/process/Pipes/WindowsPipes.php on line 28
+[18-Sep-2017 17:24:31 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/promoletter/public_html/mywork/vendor/symfony/process/Pipes/UnixPipes.php on line 24
+[18-Sep-2017 17:29:01 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/process/Pipes/AbstractPipes.php on line 22
+[21-Sep-2017 19:13:36 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/process/Pipes/AbstractPipes.php on line 22
+[25-Sep-2017 04:09:36 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/promoletter/public_html/mywork/vendor/symfony/process/Pipes/WindowsPipes.php on line 28
+[09-Nov-2017 20:50:26 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/process/Pipes/AbstractPipes.php on line 22
+[09-Nov-2017 20:52:58 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/promoletter/public_html/mywork/vendor/symfony/process/Pipes/UnixPipes.php on line 24
+[20-Nov-2017 04:47:37 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/promoletter/public_html/mywork/vendor/symfony/process/Pipes/WindowsPipes.php on line 28

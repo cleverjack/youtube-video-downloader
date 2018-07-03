@@ -1,0 +1,4 @@
+[21-Sep-2017 18:04:18 America/Denver] PHP Fatal error:  Interface 'React\Promise\PromiseInterface' not found in /home/promoletter/public_html/mywork/vendor/react/promise/tests/fixtures/SimpleRejectedTestPromise.php on line 6
+[21-Sep-2017 19:15:46 America/Denver] PHP Fatal error:  Interface 'React\Promise\PromiseInterface' not found in /home/promoletter/public_html/mywork/vendor/react/promise/tests/fixtures/SimpleFulfilledTestPromise.php on line 6
+[18-Nov-2017 16:57:06 America/Denver] PHP Fatal error:  Interface 'React\Promise\PromiseInterface' not found in /home/promoletter/public_html/mywork/vendor/react/promise/tests/fixtures/SimpleFulfilledTestPromise.php on line 6
+[18-Nov-2017 20:36:48 America/Denver] PHP Fatal error:  Interface 'React\Promise\PromiseInterface' not found in /home/promoletter/public_html/mywork/vendor/react/promise/tests/fixtures/SimpleRejectedTestPromise.php on line 6

@@ -1,0 +1,2 @@
+[30-Sep-2017 11:44:39 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Event/GetResponseForExceptionEventTest.php on line 20
+[19-Nov-2017 09:13:36 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Event/GetResponseForExceptionEventTest.php on line 20

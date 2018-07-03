@@ -1,0 +1,6 @@
+[24-Sep-2017 04:13:24 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Filter/ReplaceFilter.php on line 9
+[24-Sep-2017 14:20:15 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Filter/KeepFilter.php on line 9
+[25-Sep-2017 10:47:03 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Filter/SetNullFilter.php on line 11
+[18-Nov-2017 15:24:54 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Filter/KeepFilter.php on line 9
+[19-Nov-2017 04:27:25 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Filter/ReplaceFilter.php on line 9
+[19-Nov-2017 07:39:33 America/Denver] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/Filter/SetNullFilter.php on line 11

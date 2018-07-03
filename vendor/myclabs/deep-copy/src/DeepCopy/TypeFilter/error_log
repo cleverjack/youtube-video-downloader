@@ -1,0 +1,4 @@
+[23-Sep-2017 17:38:52 America/Denver] PHP Fatal error:  Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 6
+[24-Sep-2017 06:58:51 America/Denver] PHP Fatal error:  Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 6
+[10-Nov-2017 04:16:50 America/Denver] PHP Fatal error:  Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 6
+[11-Nov-2017 21:50:34 America/Denver] PHP Fatal error:  Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/promoletter/public_html/mywork/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 6

@@ -1,0 +1,10 @@
+[22-Sep-2017 05:33:51 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/LoggerTest.php on line 18
+[22-Sep-2017 09:33:07 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php on line 17
+[22-Sep-2017 10:04:16 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/TestCase.php on line 15
+[22-Sep-2017 12:50:47 America/Denver] PHP Fatal error:  Class 'Psr\Log\Test\LoggerInterfaceTest' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php on line 20
+[22-Sep-2017 18:37:43 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/RegistryTest.php on line 15
+[09-Nov-2017 10:22:16 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/TestCase.php on line 15
+[09-Nov-2017 13:23:30 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php on line 17
+[09-Nov-2017 23:51:08 America/Denver] PHP Fatal error:  Class 'Psr\Log\Test\LoggerInterfaceTest' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php on line 20
+[16-Nov-2017 08:30:15 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/LoggerTest.php on line 18
+[20-Nov-2017 01:00:46 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/tests/Monolog/RegistryTest.php on line 15

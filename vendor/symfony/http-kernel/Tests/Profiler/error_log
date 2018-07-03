@@ -1,0 +1,6 @@
+[24-Sep-2017 18:52:44 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Profiler/ProfilerTest.php on line 22
+[24-Sep-2017 19:06:13 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Profiler/FileProfilerStorageTest.php on line 19
+[26-Sep-2017 13:34:28 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Profiler/ProfilerTest.php on line 22
+[27-Sep-2017 15:40:34 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Profiler/FileProfilerStorageTest.php on line 19
+[19-Nov-2017 06:51:02 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Profiler/FileProfilerStorageTest.php on line 19
+[19-Nov-2017 12:22:08 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Profiler/ProfilerTest.php on line 22

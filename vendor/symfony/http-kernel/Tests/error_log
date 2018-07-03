@@ -1,0 +1,13 @@
+[23-Sep-2017 16:08:26 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/KernelTest.php on line 28
+[23-Sep-2017 16:40:21 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/ClientTest.php on line 26
+[23-Sep-2017 22:41:54 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/UriSignerTest.php on line 18
+[24-Sep-2017 05:21:39 America/Denver] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Logger.php on line 17
+[24-Sep-2017 11:07:21 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/UriSignerTest.php on line 18
+[24-Sep-2017 12:37:53 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\HttpKernel' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/TestHttpKernel.php on line 21
+[24-Sep-2017 23:13:52 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/HttpKernelTest.php on line 32
+[18-Nov-2017 14:52:19 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/ClientTest.php on line 26
+[18-Nov-2017 17:20:05 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/UriSignerTest.php on line 18
+[18-Nov-2017 19:46:25 America/Denver] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Logger.php on line 17
+[18-Nov-2017 23:29:50 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\HttpKernel' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/TestHttpKernel.php on line 21
+[19-Nov-2017 12:46:48 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/KernelTest.php on line 28
+[20-Nov-2017 01:55:34 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/HttpKernelTest.php on line 32

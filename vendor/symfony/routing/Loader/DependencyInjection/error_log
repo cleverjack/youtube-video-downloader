@@ -1,0 +1,2 @@
+[21-Sep-2017 09:20:57 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Routing\Loader\ObjectRouteLoader' not found in /home/promoletter/public_html/mywork/vendor/symfony/routing/Loader/DependencyInjection/ServiceRouterLoader.php on line 25
+[18-Nov-2017 16:58:53 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Routing\Loader\ObjectRouteLoader' not found in /home/promoletter/public_html/mywork/vendor/symfony/routing/Loader/DependencyInjection/ServiceRouterLoader.php on line 25

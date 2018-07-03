@@ -1,0 +1,16 @@
+[27-Sep-2017 19:12:01 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php on line 8
+[27-Sep-2017 19:12:12 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php on line 8
+[27-Sep-2017 19:12:19 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php on line 8
+[27-Sep-2017 19:12:23 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php on line 8
+[27-Sep-2017 19:12:27 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php on line 8
+[27-Sep-2017 19:12:34 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php on line 9
+[27-Sep-2017 20:08:30 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php on line 8
+[27-Sep-2017 20:48:47 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php on line 9
+[19-Nov-2017 05:38:18 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php on line 8
+[19-Nov-2017 06:41:28 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php on line 8
+[19-Nov-2017 06:44:51 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php on line 8
+[19-Nov-2017 08:07:20 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php on line 8
+[19-Nov-2017 10:48:55 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php on line 9
+[19-Nov-2017 12:23:02 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php on line 8
+[19-Nov-2017 22:03:23 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php on line 9
+[20-Nov-2017 03:20:41 America/Denver] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/promoletter/public_html/mywork/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php on line 8

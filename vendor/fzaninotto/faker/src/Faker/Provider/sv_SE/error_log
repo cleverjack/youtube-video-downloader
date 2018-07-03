@@ -1,0 +1,10 @@
+[25-Sep-2017 12:52:21 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/Company.php on line 6
+[25-Sep-2017 13:16:50 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/PhoneNumber.php on line 6
+[25-Sep-2017 14:27:20 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/Person.php on line 8
+[25-Sep-2017 16:23:44 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/Payment.php on line 6
+[25-Sep-2017 18:02:40 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/Address.php on line 6
+[19-Nov-2017 01:37:11 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/Company.php on line 6
+[19-Nov-2017 02:58:21 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/Address.php on line 6
+[19-Nov-2017 05:17:52 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/Person.php on line 8
+[19-Nov-2017 05:40:36 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/PhoneNumber.php on line 6
+[19-Nov-2017 12:20:05 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/sv_SE/Payment.php on line 6

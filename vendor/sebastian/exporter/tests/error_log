@@ -1,0 +1,2 @@
+[25-Sep-2017 19:00:24 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/sebastian/exporter/tests/ExporterTest.php on line 17
+[19-Nov-2017 09:29:37 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/sebastian/exporter/tests/ExporterTest.php on line 17

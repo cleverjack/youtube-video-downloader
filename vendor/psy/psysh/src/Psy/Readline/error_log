@@ -1,0 +1,8 @@
+[24-Sep-2017 04:38:24 America/Denver] PHP Fatal error:  Class 'Psy\Readline\GNUReadline' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Readline/Libedit.php on line 24
+[24-Sep-2017 05:35:16 America/Denver] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Readline/Transient.php on line 20
+[24-Sep-2017 11:11:41 America/Denver] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Readline/HoaConsole.php on line 21
+[24-Sep-2017 14:20:05 America/Denver] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Readline/GNUReadline.php on line 22
+[19-Nov-2017 00:35:36 America/Denver] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Readline/HoaConsole.php on line 21
+[19-Nov-2017 07:43:01 America/Denver] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Readline/GNUReadline.php on line 22
+[19-Nov-2017 08:40:56 America/Denver] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Readline/Transient.php on line 20
+[19-Nov-2017 15:18:51 America/Denver] PHP Fatal error:  Class 'Psy\Readline\GNUReadline' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/Readline/Libedit.php on line 24

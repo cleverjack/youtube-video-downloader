@@ -1,0 +1,2 @@
+[21-Sep-2017 07:34:54 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/streams/tests/Exception/SeekExceptionTest.php on line 8
+[19-Nov-2017 11:48:35 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/guzzlehttp/streams/tests/Exception/SeekExceptionTest.php on line 8

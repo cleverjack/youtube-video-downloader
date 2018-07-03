@@ -1,0 +1,4 @@
+[21-Sep-2017 15:06:46 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\Bundle\BundleInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Bundle/Bundle.php on line 28
+[22-Sep-2017 02:04:14 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\DependencyInjection\ContainerAwareInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Bundle/BundleInterface.php on line 24
+[19-Nov-2017 09:10:21 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\Bundle\BundleInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Bundle/Bundle.php on line 28
+[20-Nov-2017 05:14:29 America/Denver] PHP Fatal error:  Interface 'Symfony\Component\DependencyInjection\ContainerAwareInterface' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Bundle/BundleInterface.php on line 24

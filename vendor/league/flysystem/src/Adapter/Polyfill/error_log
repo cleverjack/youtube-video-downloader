@@ -1,0 +1,2 @@
+[22-Sep-2017 09:25:56 America/Denver] PHP Fatal error:  Trait 'League\Flysystem\Adapter\Polyfill\StreamedReadingTrait' not found in /home/promoletter/public_html/mywork/vendor/league/flysystem/src/Adapter/Polyfill/StreamedTrait.php on line 7
+[12-Nov-2017 01:39:15 America/Denver] PHP Fatal error:  Trait 'League\Flysystem\Adapter\Polyfill\StreamedReadingTrait' not found in /home/promoletter/public_html/mywork/vendor/league/flysystem/src/Adapter/Polyfill/StreamedTrait.php on line 7

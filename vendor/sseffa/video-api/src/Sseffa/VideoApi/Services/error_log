@@ -1,0 +1,4 @@
+[21-Sep-2017 18:11:30 America/Denver] PHP Fatal error:  Interface 'Sseffa\VideoApi\Services\ServicesInterface' not found in /home/promoletter/public_html/mywork/vendor/sseffa/video-api/src/Sseffa/VideoApi/Services/Vimeo.php on line 9
+[21-Sep-2017 20:51:38 America/Denver] PHP Fatal error:  Interface 'Sseffa\VideoApi\Services\ServicesInterface' not found in /home/promoletter/public_html/mywork/vendor/sseffa/video-api/src/Sseffa/VideoApi/Services/Youtube.php on line 13
+[16-Nov-2017 14:10:50 America/Denver] PHP Fatal error:  Interface 'Sseffa\VideoApi\Services\ServicesInterface' not found in /home/promoletter/public_html/mywork/vendor/sseffa/video-api/src/Sseffa/VideoApi/Services/Youtube.php on line 13
+[18-Nov-2017 14:47:27 America/Denver] PHP Fatal error:  Interface 'Sseffa\VideoApi\Services\ServicesInterface' not found in /home/promoletter/public_html/mywork/vendor/sseffa/video-api/src/Sseffa/VideoApi/Services/Vimeo.php on line 9

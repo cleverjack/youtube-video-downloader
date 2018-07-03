@@ -1,0 +1,4 @@
+[21-Sep-2017 13:08:06 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/test/Faker/DefaultGeneratorTest.php on line 8
+[21-Sep-2017 19:16:54 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/test/Faker/GeneratorTest.php on line 8
+[16-Nov-2017 06:55:11 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/test/Faker/GeneratorTest.php on line 8
+[20-Nov-2017 04:29:45 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/test/Faker/DefaultGeneratorTest.php on line 8

@@ -1,0 +1,5 @@
+[23-Sep-2017 21:08:06 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 9
+[24-Sep-2017 02:22:50 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Redis\Factory' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 13
+[24-Sep-2017 12:59:28 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 9
+[19-Nov-2017 12:05:46 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Redis\Factory' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 13
+[19-Nov-2017 17:46:48 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 9

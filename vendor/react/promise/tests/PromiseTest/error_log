@@ -1,0 +1,2 @@
+[26-Sep-2017 19:57:42 America/Denver] PHP Fatal error:  Trait 'React\Promise\PromiseTest\PromisePendingTestTrait' not found in /home/promoletter/public_html/mywork/vendor/react/promise/tests/PromiseTest/FullTestTrait.php on line 7
+[19-Nov-2017 05:38:03 America/Denver] PHP Fatal error:  Trait 'React\Promise\PromiseTest\PromisePendingTestTrait' not found in /home/promoletter/public_html/mywork/vendor/react/promise/tests/PromiseTest/FullTestTrait.php on line 7

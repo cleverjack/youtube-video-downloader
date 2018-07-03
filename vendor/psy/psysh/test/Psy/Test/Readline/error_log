@@ -1,0 +1,10 @@
+[23-Sep-2017 00:48:43 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php on line 17
+[23-Sep-2017 09:14:51 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/HoaConsoleTest.php on line 17
+[23-Sep-2017 09:22:14 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 17
+[23-Sep-2017 12:07:53 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php on line 17
+[28-Sep-2017 03:02:05 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 17
+[11-Nov-2017 23:18:55 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 17
+[18-Nov-2017 23:28:18 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php on line 17
+[20-Nov-2017 00:55:30 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php on line 17
+[20-Nov-2017 01:30:45 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/HoaConsoleTest.php on line 17
+[22-Nov-2017 08:38:50 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Readline/HoaConsoleTest.php on line 17

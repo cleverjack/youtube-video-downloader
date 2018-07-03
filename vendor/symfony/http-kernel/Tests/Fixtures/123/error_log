@@ -1,0 +1,2 @@
+[28-Sep-2017 10:42:11 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\Kernel' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Fixtures/123/Kernel123.php on line 18
+[19-Nov-2017 09:29:56 America/Denver] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\Kernel' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Tests/Fixtures/123/Kernel123.php on line 18

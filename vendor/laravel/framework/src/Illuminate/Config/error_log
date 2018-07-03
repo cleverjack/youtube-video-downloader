@@ -1,0 +1,2 @@
+[25-Sep-2017 05:36:21 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Config\Repository' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 10
+[20-Nov-2017 01:22:55 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Config\Repository' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 10

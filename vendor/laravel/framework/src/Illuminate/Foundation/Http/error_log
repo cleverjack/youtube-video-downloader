@@ -1,0 +1,5 @@
+[27-Sep-2017 02:13:29 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Http\Kernel' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 16
+[27-Sep-2017 02:53:29 America/Denver] PHP Fatal error:  Class 'Illuminate\Http\Request' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 16
+[29-Sep-2017 10:46:40 America/Denver] PHP Fatal error:  Class 'Illuminate\Http\Request' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 16
+[19-Nov-2017 01:50:44 America/Denver] PHP Fatal error:  Interface 'Illuminate\Contracts\Http\Kernel' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 16
+[19-Nov-2017 08:39:55 America/Denver] PHP Fatal error:  Class 'Illuminate\Http\Request' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 16

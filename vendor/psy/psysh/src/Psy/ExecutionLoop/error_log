@@ -1,0 +1,2 @@
+[22-Sep-2017 21:23:59 America/Denver] PHP Fatal error:  Class 'Psy\ExecutionLoop\Loop' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/ExecutionLoop/ForkingLoop.php on line 24
+[19-Nov-2017 10:43:01 America/Denver] PHP Fatal error:  Class 'Psy\ExecutionLoop\Loop' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/ExecutionLoop/ForkingLoop.php on line 24

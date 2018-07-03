@@ -1,0 +1,5 @@
+[28-Sep-2017 19:24:37 America/Denver] PHP Fatal error:  Class 'Intervention\Image\AbstractDriver' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Imagick/Driver.php on line 6
+[29-Sep-2017 13:38:18 America/Denver] PHP Fatal error:  Class 'Intervention\Image\AbstractEncoder' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Imagick/Encoder.php on line 6
+[02-Oct-2017 07:05:34 America/Denver] PHP Fatal error:  Class 'Intervention\Image\AbstractDriver' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Imagick/Driver.php on line 6
+[19-Nov-2017 01:16:31 America/Denver] PHP Fatal error:  Class 'Intervention\Image\AbstractEncoder' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Imagick/Encoder.php on line 6
+[23-Nov-2017 12:40:16 America/Denver] PHP Fatal error:  Class 'Intervention\Image\AbstractDriver' not found in /home/promoletter/public_html/mywork/vendor/intervention/image/src/Intervention/Image/Imagick/Driver.php on line 6

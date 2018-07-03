@@ -1,0 +1,3 @@
+[14-Sep-2017 15:55:16 America/Denver] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/promoletter/public_html/mywork/tests/Feature/ExampleTest.php on line 11
+[15-Sep-2017 09:43:05 America/Denver] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/promoletter/public_html/mywork/tests/Feature/ExampleTest.php on line 11
+[12-Nov-2017 01:41:26 America/Denver] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/promoletter/public_html/mywork/tests/Feature/ExampleTest.php on line 11

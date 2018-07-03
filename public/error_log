@@ -1,0 +1,12 @@
+[20-Aug-2017 10:47:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Hash' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/ResetPasswordController.php on line 51
+[20-Aug-2017 10:58:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Str' not found in /home/promoletter/public_html/mywork/app/Http/Controllers/Auth/ResetPasswordController.php on line 55
+[12-Sep-2017 11:00:40 America/Denver] PHP Warning:  POST Content-Length of 41864119 bytes exceeds the limit of 33554432 bytes in Unknown on line 0
+[13-Sep-2017 06:50:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/promoletter/public_html/mywork/storage/framework/views/25699131cb17de7a5f95a6d12f664e230698604b.php on line 30
+[13-Sep-2017 06:13:10 America/Denver] PHP Warning:  POST Content-Length of 37291070 bytes exceeds the limit of 33554432 bytes in Unknown on line 0
+[13-Sep-2017 06:42:24 America/Denver] PHP Warning:  POST Content-Length of 37291070 bytes exceeds the limit of 33554432 bytes in Unknown on line 0
+[14-Sep-2017 00:24:23 America/Denver] PHP Warning:  POST Content-Length of 33854980 bytes exceeds the limit of 33554432 bytes in Unknown on line 0
+[14-Sep-2017 00:26:43 America/Denver] PHP Warning:  POST Content-Length of 33854980 bytes exceeds the limit of 33554432 bytes in Unknown on line 0
+[14-Sep-2017 00:28:54 America/Denver] PHP Warning:  POST Content-Length of 33854958 bytes exceeds the limit of 33554432 bytes in Unknown on line 0
+[02-Nov-2017 12:22:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/promoletter/public_html/mywork/app/Http/Controllers/ApiController.php on line 72
+[30-Nov-2017 16:32:42 America/Denver] PHP Warning:  POST Content-Length of 241683170 bytes exceeds the limit of 33554432 bytes in Unknown on line 0
+[30-Nov-2017 16:54:16 America/Denver] PHP Warning:  POST Content-Length of 241683170 bytes exceeds the limit of 33554432 bytes in Unknown on line 0

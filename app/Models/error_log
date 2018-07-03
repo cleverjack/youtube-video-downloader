@@ -1,0 +1,4 @@
+[12-Sep-2017 22:04:33 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/promoletter/public_html/mywork/app/Models/Videos.php on line 8
+[13-Sep-2017 14:01:09 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/promoletter/public_html/mywork/app/Models/Category.php on line 8
+[10-Nov-2017 04:19:32 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/promoletter/public_html/mywork/app/Models/Videos.php on line 8
+[12-Nov-2017 04:45:11 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/promoletter/public_html/mywork/app/Models/Category.php on line 8

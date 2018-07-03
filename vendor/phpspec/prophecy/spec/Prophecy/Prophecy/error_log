@@ -1,0 +1,6 @@
+[27-Sep-2017 17:27:01 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Prophecy/ObjectProphecySpec.php on line 18
+[27-Sep-2017 22:00:01 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Prophecy/MethodProphecySpec.php on line 18
+[27-Sep-2017 22:01:50 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Prophecy/RevealerSpec.php on line 9
+[19-Nov-2017 05:20:23 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Prophecy/MethodProphecySpec.php on line 18
+[19-Nov-2017 13:20:45 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Prophecy/ObjectProphecySpec.php on line 18
+[19-Nov-2017 16:48:51 America/Denver] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/promoletter/public_html/mywork/vendor/phpspec/prophecy/spec/Prophecy/Prophecy/RevealerSpec.php on line 9

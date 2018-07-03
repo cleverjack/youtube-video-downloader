@@ -1,0 +1,7 @@
+[22-Sep-2017 20:25:11 America/Denver] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Dumper\CliDumper' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VarDumper/Dumper.php on line 22
+[22-Sep-2017 22:42:08 America/Denver] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\VarCloner' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VarDumper/Cloner.php on line 22
+[25-Sep-2017 14:51:03 America/Denver] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Dumper\CliDumper' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VarDumper/Dumper.php on line 22
+[26-Sep-2017 02:27:08 America/Denver] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Dumper\CliDumper' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VarDumper/Dumper.php on line 22
+[26-Sep-2017 18:23:28 America/Denver] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Dumper\CliDumper' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VarDumper/Dumper.php on line 22
+[18-Nov-2017 14:49:06 America/Denver] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\VarCloner' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VarDumper/Cloner.php on line 22
+[19-Nov-2017 00:36:38 America/Denver] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Dumper\CliDumper' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/src/Psy/VarDumper/Dumper.php on line 22

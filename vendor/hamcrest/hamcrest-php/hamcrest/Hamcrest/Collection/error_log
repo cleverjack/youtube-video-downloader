@@ -1,0 +1,5 @@
+[24-Sep-2017 11:40:35 America/Denver] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsEmptyTraversable.php on line 14
+[24-Sep-2017 12:37:30 America/Denver] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsTraversableWithSize.php on line 15
+[27-Sep-2017 09:26:06 America/Denver] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsEmptyTraversable.php on line 14
+[19-Nov-2017 11:20:15 America/Denver] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsTraversableWithSize.php on line 15
+[19-Nov-2017 13:19:44 America/Denver] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsEmptyTraversable.php on line 14

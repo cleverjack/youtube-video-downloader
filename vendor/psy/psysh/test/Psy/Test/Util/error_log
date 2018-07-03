@@ -1,0 +1,6 @@
+[24-Sep-2017 05:13:14 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Util/MirrorTest.php on line 18
+[24-Sep-2017 09:01:47 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Util/StrTest.php on line 17
+[24-Sep-2017 21:01:16 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Util/DocblockTest.php on line 17
+[09-Nov-2017 05:42:17 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Util/MirrorTest.php on line 18
+[19-Nov-2017 03:04:59 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Util/DocblockTest.php on line 17
+[19-Nov-2017 05:16:11 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/psy/psysh/test/Psy/Test/Util/StrTest.php on line 17

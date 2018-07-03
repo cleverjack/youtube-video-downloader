@@ -1,0 +1,6 @@
+[25-Sep-2017 13:33:08 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 11
+[25-Sep-2017 14:20:30 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php on line 9
+[25-Sep-2017 16:15:31 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 10
+[19-Nov-2017 00:18:40 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 10
+[19-Nov-2017 03:03:32 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 11
+[19-Nov-2017 13:47:17 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php on line 9

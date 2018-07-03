@@ -1,0 +1,10 @@
+[25-Sep-2017 15:55:32 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/Company.php on line 6
+[25-Sep-2017 18:24:47 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/Address.php on line 6
+[25-Sep-2017 22:13:52 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/Person.php on line 6
+[26-Sep-2017 05:09:12 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/PhoneNumber.php on line 6
+[26-Sep-2017 13:33:43 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/PhoneNumber.php on line 6
+[19-Nov-2017 04:03:06 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/PhoneNumber.php on line 6
+[19-Nov-2017 07:50:14 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/Address.php on line 6
+[19-Nov-2017 11:17:18 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/Company.php on line 6
+[19-Nov-2017 21:45:33 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/Person.php on line 6
+[20-Nov-2017 20:49:56 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/he_IL/Address.php on line 6

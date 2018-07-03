@@ -1,0 +1,9 @@
+[24-Sep-2017 01:22:11 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 6
+[24-Sep-2017 06:49:18 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/TwoTest.php on line 6
+[25-Sep-2017 03:02:16 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 6
+[25-Sep-2017 04:41:19 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 6
+[25-Sep-2017 22:52:13 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 6
+[19-Nov-2017 00:48:54 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 6
+[19-Nov-2017 01:03:48 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/TwoTest.php on line 6
+[19-Nov-2017 07:03:29 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 6
+[19-Nov-2017 08:06:32 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/promoletter/public_html/mywork/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 6

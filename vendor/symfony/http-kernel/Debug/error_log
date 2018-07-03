@@ -1,0 +1,2 @@
+[23-Sep-2017 23:02:27 America/Denver] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 26
+[18-Nov-2017 14:50:03 America/Denver] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher' not found in /home/promoletter/public_html/mywork/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 26

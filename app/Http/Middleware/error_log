@@ -1,0 +1,6 @@
+[19-Sep-2017 04:05:56 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/promoletter/public_html/mywork/app/Http/Middleware/VerifyCsrfToken.php on line 8
+[19-Sep-2017 05:38:18 America/Denver] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/promoletter/public_html/mywork/app/Http/Middleware/EncryptCookies.php on line 8
+[19-Sep-2017 18:28:35 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/promoletter/public_html/mywork/app/Http/Middleware/TrimStrings.php on line 8
+[09-Nov-2017 20:36:49 America/Denver] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/promoletter/public_html/mywork/app/Http/Middleware/EncryptCookies.php on line 8
+[09-Nov-2017 21:33:35 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/promoletter/public_html/mywork/app/Http/Middleware/TrimStrings.php on line 8
+[11-Nov-2017 20:02:37 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/promoletter/public_html/mywork/app/Http/Middleware/VerifyCsrfToken.php on line 8

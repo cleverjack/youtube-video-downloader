@@ -1,0 +1,2 @@
+[25-Sep-2017 15:49:29 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Notifications/Console/NotificationTableCommand.php on line 10
+[19-Nov-2017 04:20:33 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/promoletter/public_html/mywork/vendor/laravel/framework/src/Illuminate/Notifications/Console/NotificationTableCommand.php on line 10

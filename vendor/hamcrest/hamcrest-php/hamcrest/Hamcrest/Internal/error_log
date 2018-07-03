@@ -1,0 +1,2 @@
+[24-Sep-2017 05:28:51 America/Denver] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Internal/SelfDescribingValue.php on line 14
+[19-Nov-2017 23:05:22 America/Denver] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Internal/SelfDescribingValue.php on line 14

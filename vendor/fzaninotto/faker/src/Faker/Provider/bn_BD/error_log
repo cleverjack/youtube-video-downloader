@@ -1,0 +1,8 @@
+[26-Sep-2017 13:33:45 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/bn_BD/Company.php on line 6
+[26-Sep-2017 14:18:55 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/bn_BD/Person.php on line 6
+[26-Sep-2017 21:34:36 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/bn_BD/Address.php on line 6
+[26-Sep-2017 22:17:43 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/bn_BD/PhoneNumber.php on line 6
+[19-Nov-2017 04:02:58 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/bn_BD/Address.php on line 6
+[19-Nov-2017 08:44:11 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/bn_BD/Person.php on line 6
+[19-Nov-2017 13:18:10 America/Denver] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/bn_BD/Company.php on line 6
+[20-Nov-2017 03:13:16 America/Denver] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/promoletter/public_html/mywork/vendor/fzaninotto/faker/src/Faker/Provider/bn_BD/PhoneNumber.php on line 6

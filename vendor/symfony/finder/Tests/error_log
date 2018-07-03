@@ -1,0 +1,4 @@
+[21-Sep-2017 05:24:18 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/FinderTest.php on line 17
+[21-Sep-2017 06:13:31 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/GlobTest.php on line 19
+[09-Nov-2017 22:11:54 America/Denver] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/GlobTest.php on line 19
+[19-Nov-2017 08:41:10 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/promoletter/public_html/mywork/vendor/symfony/finder/Tests/FinderTest.php on line 17

@@ -1,0 +1,3 @@
+https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&key=AIzaSyCUKY6199WQyyns8bPwOQ1BXpgfEsRO80o&q=hello
+
+The crashes happen on occasion when the app is closed and reopened, or when making a new search while music is streaming

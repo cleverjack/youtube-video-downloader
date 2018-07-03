@@ -1,0 +1,2 @@
+[12-Oct-2017 20:27:09 America/Denver] PHP Fatal error:  Class 'Monolog\Processor\MemoryProcessor' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 21
+[02-Nov-2017 01:45:30 America/Denver] PHP Fatal error:  Class 'Monolog\Processor\MemoryProcessor' not found in /home/promoletter/public_html/mywork/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 21

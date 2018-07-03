@@ -1,0 +1,2 @@
+[21-Sep-2017 18:21:23 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/promoletter/public_html/mywork/vendor/sseffa/video-api/src/Sseffa/VideoApi/Facades/VideoApi.php on line 9
+[19-Nov-2017 23:35:16 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/promoletter/public_html/mywork/vendor/sseffa/video-api/src/Sseffa/VideoApi/Facades/VideoApi.php on line 9

@@ -1,0 +1,10 @@
+[30-Sep-2017 16:18:24 America/Denver] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/HasToString.php on line 16
+[30-Sep-2017 16:18:28 America/Denver] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 14
+[30-Sep-2017 16:18:31 America/Denver] PHP Fatal error:  Class 'Hamcrest\Core\IsSame' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php on line 14
+[30-Sep-2017 16:18:35 America/Denver] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php on line 14
+[04-Oct-2017 15:16:47 America/Denver] PHP Fatal error:  Class 'Hamcrest\Core\IsSame' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php on line 14
+[06-Oct-2017 04:18:49 America/Denver] PHP Fatal error:  Class 'Hamcrest\Core\IsSame' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php on line 14
+[19-Nov-2017 03:29:31 America/Denver] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 14
+[19-Nov-2017 03:48:03 America/Denver] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/HasToString.php on line 16
+[19-Nov-2017 11:19:42 America/Denver] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php on line 14
+[23-Nov-2017 11:18:06 America/Denver] PHP Fatal error:  Class 'Hamcrest\Core\IsSame' not found in /home/promoletter/public_html/mywork/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php on line 14
